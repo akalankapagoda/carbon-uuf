@@ -44,9 +44,13 @@
             <groupId>org.wso2.carbon.messaging</groupId>
             <artifactId>org.wso2.carbon.messaging</artifactId>
         </dependency>
+        <!--<dependency>-->
+            <!--<groupId>org.wso2.carbon.security.userstore</groupId>-->
+            <!--<artifactId>org.wso2.carbon.security.userstore.jdbc</artifactId>-->
+        <!--</dependency>-->
         <dependency>
-            <groupId>org.wso2.carbon.security.userstore</groupId>
-            <artifactId>org.wso2.carbon.security.userstore.jdbc</artifactId>
+            <groupId>org.wso2.carbon.security.caas</groupId>
+            <artifactId>org.wso2.carbon.security.caas</artifactId>
         </dependency>
         <dependency>
             <groupId>org.wso2.carbon.uuf</groupId>
